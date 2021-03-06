@@ -1,0 +1,25 @@
+html {
+    background-color: #3b3b3b;
+    color: #a3b7c6;
+    font-family: sans-serif;
+}
+
+body {
+    margin: 0 auto;
+    padding: 0 32px 32px;
+    max-width: 1000px;
+}
+
+a {
+    color: #a3b7c6;
+}
+
+a:hover {
+    color: #788491;
+}
+
+.top-right {
+    position: fixed;
+    top: 0;
+    right: 0;
+}
